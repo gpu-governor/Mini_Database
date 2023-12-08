@@ -10,7 +10,7 @@ struct Item {
  char Item_name[25];
  float price;
  int quantity;
-}
+};
 ```
 And if you don't know how structures works i recommend you watch a quick youtube tutorial on structures; as i do not need to explain this.
 you will also need an understanding of file management in C (fopen, fwrite)
